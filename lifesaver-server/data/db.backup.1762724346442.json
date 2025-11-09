@@ -1,12 +1,12 @@
 {
   "reports": [
     {
-      "id": "b8ff2855-7228-4e13-b60a-9fa16f4cf6c5",
-      "createdAt": "2025-11-09T21:05:06.440Z",
-      "updatedAt": "2025-11-09T21:05:06.440Z",
-      "lat": 47.597784220450066,
-      "lng": -122.3445821996611,
-      "geohash": "c22yzbz",
+      "id": "253b1253-0ece-4f17-88af-c3d4b4a3cd23",
+      "createdAt": "2025-11-09T21:05:01.061Z",
+      "updatedAt": "2025-11-09T21:05:01.061Z",
+      "lat": 47.60927346318732,
+      "lng": -122.32754147028476,
+      "geohash": "c23nb75",
       "categories": [
         "Flooded",
         "Trapped"
@@ -30,12 +30,12 @@
       "duplicateOf": null
     },
     {
-      "id": "ccd53b05-68f0-48b8-b898-02836087375c",
-      "createdAt": "2025-11-09T20:59:06.440Z",
-      "updatedAt": "2025-11-09T20:59:06.440Z",
-      "lat": 47.6021291999292,
-      "lng": -122.3381377697589,
-      "geohash": "c23nb1s",
+      "id": "76e72c01-fd8e-4c6c-8b71-de51608be4f1",
+      "createdAt": "2025-11-09T20:56:01.061Z",
+      "updatedAt": "2025-11-09T20:56:01.061Z",
+      "lat": 47.602979208556654,
+      "lng": -122.33687704550411,
+      "geohash": "c23nb1v",
       "categories": [
         "Medical"
       ],
@@ -58,12 +58,12 @@
       "duplicateOf": null
     },
     {
-      "id": "92be5a8e-8212-4276-90f9-a28ceca3b291",
-      "createdAt": "2025-11-09T21:36:06.440Z",
-      "updatedAt": "2025-11-09T21:36:06.440Z",
-      "lat": 47.601694051244394,
-      "lng": -122.33878317791554,
-      "geohash": "c23nb1e",
+      "id": "bb3bd481-dba5-4a23-98db-163eecf05de1",
+      "createdAt": "2025-11-09T21:21:01.061Z",
+      "updatedAt": "2025-11-09T21:21:01.061Z",
+      "lat": 47.59943560030544,
+      "lng": -122.32206711034621,
+      "geohash": "c23nb3p",
       "categories": [
         "Fire"
       ],
@@ -86,12 +86,12 @@
       "duplicateOf": null
     },
     {
-      "id": "60084c6b-4f0d-4f79-9a58-1b7232f144b5",
-      "createdAt": "2025-11-09T21:24:06.440Z",
-      "updatedAt": "2025-11-09T21:24:06.440Z",
-      "lat": 47.614904643788314,
-      "lng": -122.31918935980322,
-      "geohash": "c23nbs1",
+      "id": "85351e2d-0971-4eb7-bf7d-4eecbd6db4cc",
+      "createdAt": "2025-11-09T21:11:01.061Z",
+      "updatedAt": "2025-11-09T21:11:01.061Z",
+      "lat": 47.61412879191809,
+      "lng": -122.34385990449914,
+      "geohash": "c22yzgz",
       "categories": [
         "Supply need"
       ],
@@ -114,12 +114,12 @@
       "duplicateOf": null
     },
     {
-      "id": "19acb079-292e-4a31-95c4-dacd889279ba",
-      "createdAt": "2025-11-09T21:05:06.440Z",
-      "updatedAt": "2025-11-09T21:05:06.440Z",
-      "lat": 47.612408802663985,
-      "lng": -122.32289116627895,
-      "geohash": "c23nb7x",
+      "id": "6daaab79-fd25-41f3-bc38-22e9b4f594a1",
+      "createdAt": "2025-11-09T21:31:01.061Z",
+      "updatedAt": "2025-11-09T21:31:01.061Z",
+      "lat": 47.60985248001803,
+      "lng": -122.33751732166019,
+      "geohash": "c23nb5h",
       "categories": [
         "Missing person"
       ],
@@ -142,45 +142,17 @@
       "duplicateOf": null
     },
     {
-      "id": "1837f99b-3c27-41ac-bc70-0464c1dd6417",
-      "createdAt": "2025-11-09T21:40:21.697Z",
-      "updatedAt": "2025-11-09T21:40:21.697Z",
-      "lat": 43.26327962026038,
-      "lng": -79.91755537301603,
+      "id": "c69e5689-c8b7-4bb0-8eed-c9599aa8963a",
+      "createdAt": "2025-11-09T21:33:53.399Z",
+      "updatedAt": "2025-11-09T21:33:53.399Z",
+      "lat": 43.2632416350736,
+      "lng": -79.91759561359389,
       "geohash": "dpxnj7v",
-      "categories": [
-        "medical"
-      ],
-      "answers": {
-        "breathing": true,
-        "bleeding": false,
-        "trapped": false,
-        "water": false,
-        "fire": false,
-        "vulnerable": false,
-        "alone": false
-      },
-      "text": "yoo",
-      "contact": "7404265032",
-      "photoUrl": "http://localhost:4000/uploads/a35c99fa810260717aa3866edb14a22a",
-      "status": "new",
-      "assignedTo": null,
-      "duplicateOf": null,
-      "score": 4,
-      "urgency": "low"
-    },
-    {
-      "id": "66d795d9-035c-4c41-8b98-fd20e59dab53",
-      "createdAt": "2025-11-09T21:41:45.495Z",
-      "updatedAt": "2025-11-09T21:41:45.495Z",
-      "lat": 43.48481212891603,
-      "lng": -82.63916015625001,
-      "geohash": "dptprkp",
       "categories": [
         "trapped"
       ],
       "answers": {
-        "breathing": true,
+        "breathing": false,
         "bleeding": false,
         "trapped": false,
         "water": false,
@@ -188,13 +160,13 @@
         "vulnerable": false,
         "alone": false
       },
-      "text": "sfhrtjtjrt",
+      "text": "hi",
       "contact": "7404265032",
-      "photoUrl": "http://localhost:4000/uploads/81685e6d28348189b9162865f3ef4e9b",
+      "photoUrl": "http://localhost:4000/uploads/5a75ea5168d55ac6e092637114c582f0",
       "status": "new",
       "assignedTo": null,
       "duplicateOf": null,
-      "score": 4,
+      "score": 0,
       "urgency": "low"
     }
   ]
