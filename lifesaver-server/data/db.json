@@ -196,6 +196,34 @@
       "duplicateOf": null,
       "score": 4,
       "urgency": "low"
+    },
+    {
+      "id": "cbf09c76-aa80-4761-974d-83f34d6e3e9a",
+      "createdAt": "2025-11-09T22:00:58.969Z",
+      "updatedAt": "2025-11-09T22:01:27.823Z",
+      "lat": 43.31318813919643,
+      "lng": -79.80812072753908,
+      "geohash": "dpxnruv",
+      "categories": [
+        "missing person"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": true,
+        "alone": true
+      },
+      "text": "hes misssing.",
+      "contact": "7404265032",
+      "photoUrl": "http://localhost:4000/uploads/6eaafb77308b770cd53993636d28985e",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 3,
+      "urgency": "low"
     }
   ]
 }
