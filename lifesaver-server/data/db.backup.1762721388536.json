@@ -1,0 +1,313 @@
+{
+  "reports": [
+    {
+      "id": "2211dcb4-e035-4009-99eb-0585a68e0556",
+      "createdAt": "2025-11-09T20:09:59.992Z",
+      "updatedAt": "2025-11-09T20:09:59.992Z",
+      "lat": 47.614060907854295,
+      "lng": -122.32044078046214,
+      "geohash": "c23nbeb",
+      "categories": [
+        "Flooded",
+        "Trapped"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": true,
+        "water": true,
+        "fire": false,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Basement flooding; person trapped with limited mobility.",
+      "photoUrl": null,
+      "contact": "seeder@example.com",
+      "score": 8,
+      "urgency": "high",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "f56d22bb-ed5b-4dda-b2ac-3184593e2fbf",
+      "createdAt": "2025-11-09T20:19:59.992Z",
+      "updatedAt": "2025-11-09T20:19:59.992Z",
+      "lat": 47.61016448009743,
+      "lng": -122.33798007704277,
+      "geohash": "c23nb5h",
+      "categories": [
+        "Medical"
+      ],
+      "answers": {
+        "breathing": true,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": true
+      },
+      "text": "Breathing difficulty reported.",
+      "photoUrl": null,
+      "contact": null,
+      "score": 6,
+      "urgency": "high",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "612b98e2-a9a5-4b5c-b5e3-6743a593a39f",
+      "createdAt": "2025-11-09T20:39:59.992Z",
+      "updatedAt": "2025-11-09T20:39:59.992Z",
+      "lat": 47.60025771203059,
+      "lng": -122.32328645819582,
+      "geohash": "c23nb3q",
+      "categories": [
+        "Fire"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": true,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Smoke and small fire in apartment hallway.",
+      "photoUrl": null,
+      "contact": "contact@example.com",
+      "score": 5,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "3e1a37db-cc92-4c1c-bd2c-b5e4fbcb844c",
+      "createdAt": "2025-11-09T20:31:59.992Z",
+      "updatedAt": "2025-11-09T20:31:59.992Z",
+      "lat": 47.603333280182,
+      "lng": -122.32784810997263,
+      "geohash": "c23nb3g",
+      "categories": [
+        "Supply need"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": true,
+        "alone": true
+      },
+      "text": "Elderly resident needs medication and water.",
+      "photoUrl": null,
+      "contact": null,
+      "score": 4,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "547c5a69-0322-4e77-84c9-ea4e93929ac1",
+      "createdAt": "2025-11-09T19:58:59.992Z",
+      "updatedAt": "2025-11-09T19:58:59.992Z",
+      "lat": 47.609850955006635,
+      "lng": -122.32668494022138,
+      "geohash": "c23nb7h",
+      "categories": [
+        "Missing person"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": true,
+        "fire": false,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Child separated from family near flooded street.",
+      "photoUrl": null,
+      "contact": "parent@example.com",
+      "score": 5,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "f0783893-d308-4b7d-b3f2-24ba75d8fac5",
+      "createdAt": "2025-11-09T20:41:02.206Z",
+      "updatedAt": "2025-11-09T20:41:02.206Z",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "geohash": "9q8yyk8",
+      "categories": [
+        "trapped"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "",
+      "contact": null,
+      "photoUrl": null,
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 1,
+      "urgency": "low"
+    },
+    {
+      "id": "08efed57-26db-4552-a17f-186b525e8023",
+      "createdAt": "2025-11-09T20:41:31.959Z",
+      "updatedAt": "2025-11-09T20:41:31.959Z",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "geohash": "9q8yyk8",
+      "categories": [
+        "trapped"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "hi",
+      "contact": "7404265032",
+      "photoUrl": "http://localhost:4000/uploads/b103aab3b3189473644ebf65c8b7cd47",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 0,
+      "urgency": "low"
+    },
+    {
+      "id": "22fb52db-f4ce-466a-9112-700c2326dedb",
+      "createdAt": "2025-11-09T20:41:34.178Z",
+      "updatedAt": "2025-11-09T20:41:34.178Z",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "geohash": "9q8yyk8",
+      "categories": [
+        "trapped"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "hi",
+      "contact": "7404265032",
+      "photoUrl": "http://localhost:4000/uploads/04633f6f43a588bced5d5e414af64281",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 2,
+      "urgency": "low"
+    },
+    {
+      "id": "ddeaf81b-89b1-4bc0-8c53-46cd3729fae4",
+      "createdAt": "2025-11-09T20:41:35.222Z",
+      "updatedAt": "2025-11-09T20:41:35.222Z",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "geohash": "9q8yyk8",
+      "categories": [
+        "trapped"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "hi",
+      "contact": "7404265032",
+      "photoUrl": "http://localhost:4000/uploads/1703f7c81a84357466b59433f92c868e",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 2,
+      "urgency": "low"
+    },
+    {
+      "id": "35da4c38-b8e1-40f9-84be-b2b50a0b77e7",
+      "createdAt": "2025-11-09T20:43:21.630Z",
+      "updatedAt": "2025-11-09T20:43:21.630Z",
+      "lat": 43.26327377156434,
+      "lng": -79.91760281152689,
+      "geohash": "dpxnj7v",
+      "categories": [
+        "medical"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "iadsvndkv",
+      "contact": "7404265032",
+      "photoUrl": null,
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 0,
+      "urgency": "low"
+    },
+    {
+      "id": "97e525e7-f93e-4165-bdea-ff3254366ab1",
+      "createdAt": "2025-11-09T20:43:39.036Z",
+      "updatedAt": "2025-11-09T20:43:39.036Z",
+      "lat": 43.26327377156434,
+      "lng": -79.91760281152689,
+      "geohash": "dpxnj7v",
+      "categories": [
+        "medical"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "iadsvndkv",
+      "contact": "7404265032",
+      "photoUrl": null,
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 0,
+      "urgency": "low"
+    }
+  ]
+}
