@@ -1,0 +1,229 @@
+{
+  "reports": [
+    {
+      "id": "b8ff2855-7228-4e13-b60a-9fa16f4cf6c5",
+      "createdAt": "2025-11-09T21:05:06.440Z",
+      "updatedAt": "2025-11-09T21:05:06.440Z",
+      "lat": 47.597784220450066,
+      "lng": -122.3445821996611,
+      "geohash": "c22yzbz",
+      "categories": [
+        "Flooded",
+        "Trapped"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": true,
+        "water": true,
+        "fire": false,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Basement flooding; person trapped with limited mobility.",
+      "photoUrl": null,
+      "contact": "seeder@example.com",
+      "score": 8,
+      "urgency": "high",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "ccd53b05-68f0-48b8-b898-02836087375c",
+      "createdAt": "2025-11-09T20:59:06.440Z",
+      "updatedAt": "2025-11-09T20:59:06.440Z",
+      "lat": 47.6021291999292,
+      "lng": -122.3381377697589,
+      "geohash": "c23nb1s",
+      "categories": [
+        "Medical"
+      ],
+      "answers": {
+        "breathing": true,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": true
+      },
+      "text": "Breathing difficulty reported.",
+      "photoUrl": null,
+      "contact": null,
+      "score": 6,
+      "urgency": "high",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "92be5a8e-8212-4276-90f9-a28ceca3b291",
+      "createdAt": "2025-11-09T21:36:06.440Z",
+      "updatedAt": "2025-11-09T21:36:06.440Z",
+      "lat": 47.601694051244394,
+      "lng": -122.33878317791554,
+      "geohash": "c23nb1e",
+      "categories": [
+        "Fire"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": true,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Smoke and small fire in apartment hallway.",
+      "photoUrl": null,
+      "contact": "contact@example.com",
+      "score": 5,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "60084c6b-4f0d-4f79-9a58-1b7232f144b5",
+      "createdAt": "2025-11-09T21:24:06.440Z",
+      "updatedAt": "2025-11-09T21:24:06.440Z",
+      "lat": 47.614904643788314,
+      "lng": -122.31918935980322,
+      "geohash": "c23nbs1",
+      "categories": [
+        "Supply need"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": true,
+        "alone": true
+      },
+      "text": "Elderly resident needs medication and water.",
+      "photoUrl": null,
+      "contact": null,
+      "score": 4,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "19acb079-292e-4a31-95c4-dacd889279ba",
+      "createdAt": "2025-11-09T21:05:06.440Z",
+      "updatedAt": "2025-11-09T21:05:06.440Z",
+      "lat": 47.612408802663985,
+      "lng": -122.32289116627895,
+      "geohash": "c23nb7x",
+      "categories": [
+        "Missing person"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": true,
+        "fire": false,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Child separated from family near flooded street.",
+      "photoUrl": null,
+      "contact": "parent@example.com",
+      "score": 5,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "1837f99b-3c27-41ac-bc70-0464c1dd6417",
+      "createdAt": "2025-11-09T21:40:21.697Z",
+      "updatedAt": "2025-11-09T21:40:21.697Z",
+      "lat": 43.26327962026038,
+      "lng": -79.91755537301603,
+      "geohash": "dpxnj7v",
+      "categories": [
+        "medical"
+      ],
+      "answers": {
+        "breathing": true,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "yoo",
+      "contact": "7404265032",
+      "photoUrl": "http://localhost:4000/uploads/a35c99fa810260717aa3866edb14a22a",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 4,
+      "urgency": "low"
+    },
+    {
+      "id": "66d795d9-035c-4c41-8b98-fd20e59dab53",
+      "createdAt": "2025-11-09T21:41:45.495Z",
+      "updatedAt": "2025-11-09T21:41:45.495Z",
+      "lat": 43.48481212891603,
+      "lng": -82.63916015625001,
+      "geohash": "dptprkp",
+      "categories": [
+        "trapped"
+      ],
+      "answers": {
+        "breathing": true,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": false
+      },
+      "text": "sfhrtjtjrt",
+      "contact": "7404265032",
+      "photoUrl": "http://localhost:4000/uploads/81685e6d28348189b9162865f3ef4e9b",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 4,
+      "urgency": "low"
+    },
+    {
+      "id": "cbf09c76-aa80-4761-974d-83f34d6e3e9a",
+      "createdAt": "2025-11-09T22:00:58.969Z",
+      "updatedAt": "2025-11-09T22:01:27.823Z",
+      "lat": 43.31318813919643,
+      "lng": -79.80812072753908,
+      "geohash": "dpxnruv",
+      "categories": [
+        "missing person"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": true,
+        "alone": true
+      },
+      "text": "hes misssing.",
+      "contact": "7404265032",
+      "photoUrl": "http://localhost:4000/uploads/6eaafb77308b770cd53993636d28985e",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null,
+      "score": 3,
+      "urgency": "low"
+    }
+  ]
+}

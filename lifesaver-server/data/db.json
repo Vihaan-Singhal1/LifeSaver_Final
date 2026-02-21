@@ -1,0 +1,145 @@
+{
+  "reports": [
+    {
+      "id": "6e5ee621-74b3-49a6-894b-87eed6a36ab5",
+      "createdAt": "2026-02-21T02:03:57.614Z",
+      "updatedAt": "2026-02-21T02:03:57.614Z",
+      "lat": 47.611219370745324,
+      "lng": -122.33954468025149,
+      "geohash": "c23nb57",
+      "categories": [
+        "Flooded",
+        "Trapped"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": true,
+        "water": true,
+        "fire": false,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Basement flooding; person trapped with limited mobility.",
+      "photoUrl": null,
+      "contact": "seeder@example.com",
+      "score": 8,
+      "urgency": "high",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "76ecd4c4-7c50-497d-8ae6-a668e82e4d35",
+      "createdAt": "2026-02-21T01:44:57.614Z",
+      "updatedAt": "2026-02-21T01:44:57.614Z",
+      "lat": 47.598876083220944,
+      "lng": -122.3212372402289,
+      "geohash": "c23nb90",
+      "categories": [
+        "Medical"
+      ],
+      "answers": {
+        "breathing": true,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": false,
+        "alone": true
+      },
+      "text": "Breathing difficulty reported.",
+      "photoUrl": null,
+      "contact": null,
+      "score": 6,
+      "urgency": "high",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "1060f472-f843-4370-a724-53fc643268b7",
+      "createdAt": "2026-02-21T01:58:57.614Z",
+      "updatedAt": "2026-02-21T01:58:57.614Z",
+      "lat": 47.59988427716959,
+      "lng": -122.32273258336252,
+      "geohash": "c23nb3r",
+      "categories": [
+        "Fire"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": true,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Smoke and small fire in apartment hallway.",
+      "photoUrl": null,
+      "contact": "contact@example.com",
+      "score": 5,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "e2333de9-9cd1-4a52-83ad-7dd4e7ac5fcf",
+      "createdAt": "2026-02-21T01:50:57.614Z",
+      "updatedAt": "2026-02-21T01:50:57.614Z",
+      "lat": 47.60956591220953,
+      "lng": -122.33709228716626,
+      "geohash": "c23nb5h",
+      "categories": [
+        "Supply need"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": false,
+        "fire": false,
+        "vulnerable": true,
+        "alone": true
+      },
+      "text": "Elderly resident needs medication and water.",
+      "photoUrl": null,
+      "contact": null,
+      "score": 4,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    },
+    {
+      "id": "88b08cec-330f-42a8-ac2f-0492761817bf",
+      "createdAt": "2026-02-21T01:39:57.614Z",
+      "updatedAt": "2026-02-21T01:39:57.614Z",
+      "lat": 47.61312434060209,
+      "lng": -122.34237011240063,
+      "geohash": "c23nb59",
+      "categories": [
+        "Missing person"
+      ],
+      "answers": {
+        "breathing": false,
+        "bleeding": false,
+        "trapped": false,
+        "water": true,
+        "fire": false,
+        "vulnerable": true,
+        "alone": false
+      },
+      "text": "Child separated from family near flooded street.",
+      "photoUrl": null,
+      "contact": "parent@example.com",
+      "score": 5,
+      "urgency": "medium",
+      "status": "new",
+      "assignedTo": null,
+      "duplicateOf": null
+    }
+  ]
+}
